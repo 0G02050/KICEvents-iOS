@@ -1,0 +1,12 @@
+#　俺の大事なAPi
+**/Secrets.swift
+Secrets.swift
+
+# Xcode 个人配置
+xcuserdata/
+*.xcuserdata
+*.xcworkspace/
+!default.xcworkspace
+
+# Mac 系统文件
+.DS_Store
